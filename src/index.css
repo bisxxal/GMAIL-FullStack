@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.msg:hover{
+    -webkit-box-shadow: -23px 35px 18px -27px rgba(0,0,0,0.88);
+    -moz-box-shadow: -23px 35px 18px -27px rgba(0,0,0,0.88);
+    box-shadow: -23px 35px 18px -27px rgba(0,0,0,0.88);
+}
